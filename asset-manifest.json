@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppStore/static/css/main.5d966cc5.css",
+    "main.js": "/AppStore/static/js/main.be58d67e.js",
+    "static/js/453.ad6eb26e.chunk.js": "/AppStore/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/AppStore/index.html",
+    "main.5d966cc5.css.map": "/AppStore/static/css/main.5d966cc5.css.map",
+    "main.be58d67e.js.map": "/AppStore/static/js/main.be58d67e.js.map",
+    "453.ad6eb26e.chunk.js.map": "/AppStore/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d966cc5.css",
+    "static/js/main.be58d67e.js"
+  ]
+}
